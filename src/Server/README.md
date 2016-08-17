@@ -4,7 +4,12 @@ Fundamental Server API.
 ## Requirements
 - Python3 > 3.5.1
 
+```python
+import socket
+```
+
 ### socket.socket()
+
 ```python
 socket.socket(socket_family, socket_type,protocol=0)
 """
